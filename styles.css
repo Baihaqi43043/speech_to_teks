@@ -1,0 +1,22 @@
+#css_hasil {
+    background-color: #f0f0f0; /* Warna latar belakang */
+    padding: 20px; /* Padding konten */
+    border-radius: 10px; /* Sudut bulat */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Bayangan */
+    margin-top: 20px; /* Margin atas */
+    text-align: center; /* Posisi teks ke tengah */
+}
+
+#css_hasil h1 {
+    font-size: 24px; /* Ukuran teks judul */
+    color: #333; /* Warna teks judul */
+}
+
+#css_hasil p {
+    font-size: 22px; /* Ukuran teks paragraf */
+    color: #555; /* Warna teks paragraf */
+    margin-top: 10px; /* Margin atas */
+}
+#__draft_result {
+    font-size: 22px; /* Ukuran teks */
+}
